@@ -120,7 +120,6 @@ def _checksum(bytes, csum=0):
     sum = csum
 
     for i in range(1, len(bytes), 2):
-        print(i)
         sum += (bytes[i - 1] << 8) | bytes[i]
 
     if len(bytes) % 2 == 1:

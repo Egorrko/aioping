@@ -6,13 +6,12 @@ Installation
 
 aioping requires Python 3.5. 
 
-Use pip to install it from the PyPI::
+This fork is to merge the outstanding MRs in the original repo:
+https://github.com/stellarbit/aioping 
 
-    $ pip install aioping
+Install it using the following command::
 
-Or use the latest version from the master (if you are brave enough)::
-
-    $ pip install git+https://github.com/stellarbit/aioping
+    $ pip install git+https://github.com/jak3kaj/aioping
 
 Using aioping
 -------------
