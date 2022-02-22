@@ -1,3 +1,6 @@
+===============
+Сделал форк, чтобы безопасно использовать в своем коде.
+===============
 aioping is a fast asyncio implementation of ICMP (ping) protocol.
 
 
